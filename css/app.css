@@ -1,0 +1,25 @@
+.f-widget-title h4:after {
+    content: "";
+    width: 40px;
+    height: 2px;
+    background-color: #57b33f;
+    position: absolute;
+    left: 65px;
+    bottom: 10px;
+    z-index: 1;
+}
+
+.why-us-left-bg-right {
+    background-image: url(https://propcart.co.ke/wp-content/uploads/2025/09/Blog-Banner-Template-5.png);
+    background-size: initial;
+    background-position: right;
+}
+
+.slider1 {
+    background-image: url("https://cdn.jsdelivr.net/gh/my-websites-assets/lucru@main/images/pexels.jpg");
+}
+
+.bg-contact {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)),
+        url("https://cdn.jsdelivr.net/gh/my-websites-assets/login_page_repo@main/login_page_images/Bonasta2.jpg");
+}
